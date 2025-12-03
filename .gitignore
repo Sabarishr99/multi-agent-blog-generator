@@ -1,0 +1,36 @@
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environments
+venv/
+env/
+.venv/
+
+# Ignore environment variable files (API keys, secrets)
+.env
+.env.local
+
+# Ignore OS-generated files
+.DS_Store
+Thumbs.db
+
+# Ignore log files
+*.log
+
+# Ignore Python build artifacts
+build/
+dist/
+*.egg-info/
+
+# Ignore Jupyter Notebook checkpoints (if any)
+.ipynb_checkpoints/
+
+# Ignore screenshots folder if generated automatically (optional)
+# screenshots/
+
+# Ignore temporary files
+*.tmp
+*.swp

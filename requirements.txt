@@ -1,0 +1,5 @@
+The project uses:
+Python 3.10 or above
+penAI Swarm
+
+python- oops
